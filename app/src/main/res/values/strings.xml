@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LTDD_BT5</string>
+    <string name="name">name</string>
+    <string name="title">Title</string>
+    <string name="description">Hành tinh thuộc hệ Mặt Trời</string>
+    <string name="image">image</string>
+    <string name="price">6$</string>
+    <string name="shortDescription">Loại: Hành tinh thuộc hệ Mặt Trời</string>
+    <string name="detailDescription">Mô tả: Hành tinh thứ 1 trong hệ mặt trời</string>
+</resources>
